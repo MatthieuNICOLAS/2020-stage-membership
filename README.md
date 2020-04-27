@@ -8,6 +8,7 @@
 
 ### Lectures
 - Chapitres 1, 5, 8 de Designing Data-Intensive Applications
+- En complément : https://www.inkandswitch.com/local-first.html
 
 ## Membership
 
