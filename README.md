@@ -33,3 +33,12 @@
 ### TS
 - Le tuto officiel : http://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 - TypeScript Deep Dive : https://github.com/basarat/typescript-book
+
+
+## Outils de développement
+
+### Git
+
+- Une convention pour les messages des commits : https://www.conventionalcommits.org/en/v1.0.0-beta.2
+- Un modèle pour organiser le versionnage de logiciel : https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
+
