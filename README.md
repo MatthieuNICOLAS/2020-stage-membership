@@ -15,6 +15,10 @@
 ### Vidéos
 - Manuel Bernhardt - Is There Anybody Out There : https://www.youtube.com/watch?v=zKf1kxAu2n0
 
+### Lectures
+- Make your cluster SWIM : https://bartoszsypytkowski.com/make-your-cluster-swim/
+- SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol
+
 ## Web
 
 ### JS
@@ -35,11 +39,9 @@
 - Le tuto officiel : http://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 - TypeScript Deep Dive : https://github.com/basarat/typescript-book
 
-
 ## Outils de développement
 
 ### Git
 
 - Une convention pour les messages des commits : https://www.conventionalcommits.org/en/v1.0.0-beta.2
 - Un modèle pour organiser le versionnage de logiciel : https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow
-
