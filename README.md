@@ -8,7 +8,8 @@
 
 ### Lectures
 - Chapitres 1, 5, 8 de Designing Data-Intensive Applications
-- En complément : https://www.inkandswitch.com/local-first.html
+- En complément (Local-first softawres) : https://www.inkandswitch.com/local-first.html
+- Pour aller plus loin sur les CRDTs : http://jtfmumm.com/blog/2015/11/17/crdt-primer-1-defanging-order-theory
 
 ## Membership
 
